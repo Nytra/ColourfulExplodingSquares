@@ -1,5 +1,5 @@
 # SDL2_RenderingExperiments
-Experimenting with rendering different types of graphical elements in SDL2 and handling input. Includes some explosion particle effects, solid walls and AI bots. Also includes a class for building custom WAV audio files in-memory or outputting to a file.
+Experimenting with rendering different types of graphical elements in SDL2 and handling input. Includes some explosion particle effects, solid walls and AI bots. Also includes a class for building custom WAV audio files in-memory or outputting to a file. The in-memory part of this class doesn't really work, but the file-output part does. Code for WAV files taken from user Duthomhas here https://www.cplusplus.com/forum/beginner/166954/
 
 ![Demo](https://github.com/Nytra/SDL2_RenderingExperiments/blob/master/demo8.gif)
 ![Demo](https://github.com/Nytra/SDL2_RenderingExperiments/blob/master/demoexplosion3.gif)
